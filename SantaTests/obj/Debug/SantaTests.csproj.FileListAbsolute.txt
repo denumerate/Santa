@@ -16,7 +16,6 @@ C:\workspaces\Santa\SantaTests\bin\Debug\SantaTests.pdb
 C:\workspaces\Santa\SantaTests\bin\Debug\Santa.dll
 C:\workspaces\Santa\SantaTests\bin\Debug\Microsoft.Owin.dll
 C:\workspaces\Santa\SantaTests\bin\Debug\System.Web.Optimization.dll
-C:\workspaces\Santa\SantaTests\bin\Debug\System.Web.Mvc.dll
 C:\workspaces\Santa\SantaTests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
 C:\workspaces\Santa\SantaTests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
 C:\workspaces\Santa\SantaTests\bin\Debug\Microsoft.Owin.Security.dll
