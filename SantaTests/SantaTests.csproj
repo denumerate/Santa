@@ -59,9 +59,9 @@
     <Compile Include="TupleListExstensions.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Santa\Santa.csproj">
+    <ProjectReference Include="..\Santa\SantaMain.csproj">
       <Project>{9fca1c19-e5fc-404f-923c-b99e8f52e1c0}</Project>
-      <Name>Santa</Name>
+      <Name>SantaMain</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>

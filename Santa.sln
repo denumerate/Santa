@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Santa", "Santa\Santa.csproj", "{9FCA1C19-E5FC-404F-923C-B99E8F52E1C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantaMain", "Santa\SantaMain.csproj", "{9FCA1C19-E5FC-404F-923C-B99E8F52E1C0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SantaTests", "SantaTests\SantaTests.csproj", "{C10C3F7E-9B85-4F41-8471-525CE037A1EA}"
 EndProject
